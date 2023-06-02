@@ -20,7 +20,7 @@
 {"key": "csp_zxzj","name": "📗在线┃直连","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.zxzj.pro/"},
 {"key": "csp_Lgyy","name": "🌀蓝光┃直连","type": 3,"api": "csp_Lgyy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.lgyy.vip"},
 {"key": "csp_Ysgc","name": "🏭工厂┃直连","type": 3,"api": "csp_Ysgc","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.ysgc.vip"},
-{"key":"csp_FanYY","name":"💦阿里云┃4K","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"ext":"7841f3b49e724e95bf35db236be8f00c"},
+{"key":"csp_FanYY","name":"💦阿里云┃4K","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"ext":"7841f3b49e724e95bf35db236be8f00c","jar":"./YSC.jar"},
 {"key":"Gitcafe","name":"纸条","type":"3","api":"csp_Paper","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"7841f3b49e724e95bf35db236be8f00c"},
 {"key":"Upso","name":"云搜","type":"3","api":"csp_UpYun","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1"},
 {"key":"Lib","name":"Libvio","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"78d057e4d03e47cb62dce13d69b41d6f"},
