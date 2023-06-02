@@ -22,7 +22,7 @@
 {"key":"YiSo","name":"易搜","type":"3","api":"csp_YiSo","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1"},
 {"key":"AliPS","name":"盘搜","type":"3","api":"csp_PanSou","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1"},
 {"key":"push_agent","name":"PushAgent","type":"3","api":"csp_Push","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1"},
-{"key":"Live","name":"影视直播","type":3,"api": "csp_Live","ext":"2000"}],
+{"key":"Live","name":"影视直播","type":3,"api": "csp_Live","ext":"2000"},
 {"key":"好趣网","name":"电视 | 好趣网[js]","type":3,"api":"./JS/apiv19drpy2.min.js","ext":"./JS/好趣网.js"},
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./JS/apiv19drpy2.min.js","ext":"./JS/drpy.js"},
 {"key":"drpy_js_我的哔哩","name":"我的哔哩[js]","type":3,"api":"./JS/apiv19drpy2.min.js","ext":"./JS/我的哔哩.js"},
@@ -198,7 +198,7 @@
 {"key":"drpy_js_星辰影院","name":"影视 | 星辰影院[js]","type":3,"api":"./JS/apiv19drpy2.min.js","ext":"./JS/星辰.js"},
 {"key":"drpy_js_伊人追剧","name":"影视 | 伊人追剧[js]","type":3,"api":"./JS/apiv19drpy2.min.js","ext":"./JS/伊人追剧.js"},
 {"key":"drpy_js_追剧啦儿","name":"影视 | 追剧啦儿[js]","type":3,"api":"./JS/apiv19drpy2.min.js","ext":"./JS/追剧啦.js"},
-{"key":"drpy_js_子子影视","name":"影视 | 子子影视[js]","type":3,"api":"./JS/apiv19drpy2.min.js","ext":"./JS/子子影视.js"},
+{"key":"drpy_js_子子影视","name":"影视 | 子子影视[js]","type":3,"api":"./JS/apiv19drpy2.min.js","ext":"./JS/子子影视.js"}],
 "lives":[{"name":"太阳","type":0,"url":"./JS/zhibo.txt"}],
 "rules":[
 {"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},{"host":"www.sharenice.net","rule":["huoshan.com","/item/video/"],"filter":[]},
